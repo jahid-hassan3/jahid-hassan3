@@ -1,6 +1,6 @@
 <div align="center">
 [![GITHUB](https://img.shields.io/badge/GITHUB-jahid--hassan3-181717?style=for-the-badge&logo=github)](https://github.com/jahid-hassan3)
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-MD_JAHID_HASSAN-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![EMAIL](https://img.shields.io/badge/EMAIL-jahidhasanjabed1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahidhasanjabed1@gmail.com)
 [![FOCUS](https://img.shields.io/badge/FOCUS-MACHINE_LEARNING-3b82f6?style=for-the-badge&logo=target)](https://github.com/jahid-hassan3)
 [![LOCATION](https://img.shields.io/badge/LOCATION-CHENGDU%2C_CHINA-E11D48?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
 </div>
