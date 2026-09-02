@@ -1,4 +1,4 @@
-<div align="center">
+<<div align="center">
 
 [![GITHUB](https://img.shields.io/badge/GITHUB-jahid--hassan3-181717?style=for-the-badge&logo=github)](https://github.com/jahid-hassan3)
 [![EMAIL](https://img.shields.io/badge/EMAIL-jahidhasanjabed1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahidhasanjabed1@gmail.com)
@@ -75,7 +75,11 @@ flowchart LR
     B --> C[ML Classifier / Anomaly Model]
     C --> D[Streamlit Engine Inference]
     D --> E[Real-Time Risk Dashboard & Alerts]
-./roadmap --current
-[x] Deploy live Predictive Maintenance Dashboard to Streamlit Cloud.
+```
 
-[ ] Integrate Time-Series Forecasting (LSTM / Prophet) for Remaining Useful Life (RUL) estimation.
+---
+
+### `./roadmap --current`
+
+- [x] Deploy live Predictive Maintenance Dashboard to Streamlit Cloud.
+- [ ] Integrate Time-Series Forecasting (LSTM / Prophet) for Remaining Useful Life (RUL) estimation.
