@@ -6,6 +6,8 @@
 |---------|-------------|-----------|
 | ⚙️ Predictive Maintenance | Real-time machine health monitoring using ML | ✅ |
 ## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jahid-hassan3&theme=github-dark)](https://github.com/jahid-hassan3)
 ## 🚀 Roadmap
 
 - ✅ Predictive Maintenance Dashboard
